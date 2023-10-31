@@ -6,14 +6,9 @@
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
-  - [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
 ![](./design/desktop-design.jpg)
-
-## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
